@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactawsfullstack-dev-132110-authRole",
+      "UnauthRoleArn": "arn:aws:iam::235286397621:role/amplify-reactawsfullstack-dev-132110-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::235286397621:role/amplify-reactawsfullstack-dev-132110-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactawsfullstack-dev-132110-deployment",
+      "UnauthRoleName": "amplify-reactawsfullstack-dev-132110-unauthRole",
+      "StackName": "amplify-reactawsfullstack-dev-132110",
+      "StackId": "arn:aws:cloudformation:us-east-1:235286397621:stack/amplify-reactawsfullstack-dev-132110/e3c59c10-e7dd-11ec-ad24-0a16f5aec431",
+      "AmplifyAppId": "dpx3gnf7jt671"
+    },
+    "categories": {
+      "function": {
+        "reactawsfullstackee6e3efc": {
+          "deploymentBucketName": "amplify-reactawsfullstack-dev-132110-deployment",
+          "s3Key": "amplify-builds/reactawsfullstackee6e3efc-717a4b77455737517164-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dpx3gnf7jt671",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
